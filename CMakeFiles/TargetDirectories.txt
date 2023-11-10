@@ -1,0 +1,3 @@
+/home/hafizh/metopen/CMakeFiles/rebuild_cache.dir
+/home/hafizh/metopen/CMakeFiles/edit_cache.dir
+/home/hafizh/metopen/CMakeFiles/metopen.dir
